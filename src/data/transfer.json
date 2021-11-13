@@ -1,0 +1,35 @@
+[
+  {
+    "title": "邮储银行",
+    "provider": "bank-psbc",
+    "count": {
+      "number": 6,
+      "period": "y"
+    },
+    "cardTags": ["高铁站", "机场"],
+    "iconColor": "green",
+    "refreshDate": "05-13"
+  },
+  {
+    "title": "浦发银行",
+    "provider": "bank-spdb",
+    "count": {
+      "number": 2,
+      "period": "y"
+    },
+    "cardTags": ["机场"],
+    "iconColor": "rgb(7, 65, 149)",
+    "refreshDate": "04-26"
+  },
+  {
+    "title": "光大银行",
+    "provider": "bank-ceb",
+    "count": {
+      "number": 2,
+      "period": "y"
+    },
+    "cardTags": ["机场"],
+    "iconColor": "purple",
+    "refreshDate": "12-07"
+  }
+]

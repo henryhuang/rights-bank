@@ -1,0 +1,167 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2926036 */
+  src: url('iconfont.woff2?t=1636451862092') format('woff2'),
+       url('iconfont.woff?t=1636451862092') format('woff'),
+       url('iconfont.ttf?t=1636451862092') format('truetype');
+}
+
+.icon {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bank-boc:before {
+  content: "\e621";
+}
+
+.icon-bank-default:before {
+  content: "\e61c";
+}
+
+.icon-bank-cmb:before {
+  content: "\e659";
+}
+
+.icon-bank-huabei:before {
+  content: "\e630";
+}
+
+.icon-bank-abc:before {
+  content: "\e602";
+}
+
+.icon-bank-bjrcb:before {
+  content: "\e94c";
+}
+
+.icon-bank-egb:before {
+  content: "\e962";
+}
+
+.icon-bank-shb:before {
+  content: "\e966";
+}
+
+.icon-bank-shrcb:before {
+  content: "\e967";
+}
+
+.icon-bank-nbb:before {
+  content: "\e972";
+}
+
+.icon-bank-cib:before {
+  content: "\e97f";
+}
+
+.icon-bank-cgb:before {
+  content: "\e97e";
+}
+
+.icon-bank-boca:before {
+  content: "\e98d";
+}
+
+.icon-bank-baitiao:before {
+  content: "\e605";
+}
+
+.icon-bank-psbc:before {
+  content: "\e622";
+}
+
+.icon-bank-czb:before {
+  content: "\e660";
+}
+
+.icon-qq:before {
+  content: "\e882";
+}
+
+.icon-bank-cmbc:before {
+  content: "\e60b";
+}
+
+.icon-bank-spdb:before {
+  content: "\e60c";
+}
+
+.icon-bank-ceb:before {
+  content: "\e616";
+}
+
+.icon-bank-gzrcu:before {
+  content: "\e617";
+}
+
+.icon-bank-bjb:before {
+  content: "\e615";
+}
+
+.icon-bank-hxb:before {
+  content: "\e618";
+}
+
+.icon-bank-boc-c:before {
+  content: "\e61b";
+}
+
+.icon-bank-hsbc:before {
+  content: "\ea36";
+}
+
+.icon-bank-citi:before {
+  content: "\e650";
+}
+
+.icon-alipay:before {
+  content: "\e68a";
+}
+
+.icon-bank-icbc:before {
+  content: "\e60f";
+}
+
+.icon-bank-gcb:before {
+  content: "\e610";
+}
+
+.icon-bank-ccb:before {
+  content: "\e619";
+}
+
+.icon-bank-njb:before {
+  content: "\e614";
+}
+
+.icon-bank-srcb:before {
+  content: "\e61e";
+}
+
+.icon-bank-citic:before {
+  content: "\e61a";
+}
+
+.icon-bank-pab:before {
+  content: "\e61f";
+}
+
+.icon-bank-cmb-c:before {
+  content: "\e61d";
+}
+
+.icon-bank-baitiao-c:before {
+  content: "\e63e";
+}
+
+.icon-bank-huabei-c:before {
+  content: "\e60e";
+}
+
+.icon-bank-drcbcl:before {
+  content: "\e6ec";
+}
+
