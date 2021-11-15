@@ -23,7 +23,7 @@ export default class Index extends Component {
   render() {
     const tabList = [{title: '休息室'}, {title: '接送机'}, {title: '体检洗牙'}, {title: '酒店'}, {title: '其他'}]
     return (
-      <AtTabs current={this.state.current} tabList={tabList} onClick={this.handleClick.bind(this)}>
+      <AtTabs current={this.state.current} tabList={tabList} onClick={this.handleClick.bind(this)} className='tabsContainer'>
         <AtTabsPane current={this.state.current} index={0}>
           <ItemCardGroup items={lounge} />
         </AtTabsPane>

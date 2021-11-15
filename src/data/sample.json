@@ -1,0 +1,8 @@
+{
+  "title": "招商银行",
+  "type": "bank-cmb",
+  "initCountNumber": 4,
+  "initCountPeriod": "y",
+  "cardTags": ["CIP", "机场"],
+  "refreshDate": "09-17"
+}
